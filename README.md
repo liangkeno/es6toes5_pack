@@ -2,15 +2,15 @@
 可用于测试es6转化为es5的测试
 ## 环境要求
 node+npm+git+webpack+babel
-...npm
+```npm
 $ npm install webpack --save-dev
 $ npm install babel-loader --save-dev
-...
-...npm
+```
+```npm
 npm install babel-core babel-preset-es2015 --save-dev
-...
+```
 ##新建一个文件.babelrc
-...babelrc
+```babelrc
 { "presets": ["es2015"] }
-...
+```
 module_node文件不可以上传，可自行安装
