@@ -13,4 +13,3 @@ npm install babel-core babel-preset-es2015 --save-dev
 ```babelrc
 { "presets": ["es2015"] }
 ```
-module_node文件不可以上传，可自行安装
